@@ -1,10 +1,10 @@
 # Python_projects
 
-## simple calculator 
-addition 
-subtraction
-multiplication
-division
+## Simple calculator 
+Addition, 
+Subtraction,
+Multiplication,
+Division
 
-### aim
-to be able to calculate different calculations of two numbers
+### Aim
+To be able to calculate different calculations of two numbers
